@@ -32,14 +32,12 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Talebi S., Lary D.J., Wijeratne L. OH., and Lary, T. Modeling Autonomic Pupillary Responses from External Stimuli Using Machine Learning (2019). DOI: 10.26717/BJSTR.2019.20.003446
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-3. Lary, D.J.; Schaefer, D.; Waczak, J.; Aker, A.; Barbosa, A.; Wijeratne, L.O.H.; Talebi, S.; Fernando, B.; Sadler, J.; Lary, T.; Lary, M.D. Autonomous Learning of New Environments with a Robotic Team Employing Hyper-Spectral Remote Sensing, Comprehensive In-Situ Sensing and Machine Learning. Sensors 2021, 21, 2240. https://doi.org/10.3390/s21062240
-4. Zhang, Y.; Wijeratne, L.O.H.; Talebi, S.; Lary, D.J. Machine Learning for Light Sensor Calibration. Sensors 2021, 21, 6259. https://doi.org/10.3390/s21186259
-5. Talebi, S.; Waczak, J.; Fernando, B.; Sridhar, A.; Lary, D.J. Data-Driven EEG Band Discovery with Decision Trees. Preprints 2022, 2022030145 (doi: 10.20944/preprints202203.0145.v1).
-6. Fernando, B.A.; Sridhar, A.; Talebi, S.; Waczak, J.; Lary, D.J. Unsupervised Blink Detection Using Eye Aspect Ratio Values. Preprints 2022, 2022030200 (doi: 10.20944/preprints202203.0200.v1).
-7. Talebi, S. et al. Decoding Physical and Cognitive Impacts of PM Concentrations at Ultra-fine Scales, 29 March 2022, PREPRINT (Version 1) available at Research Square [https://doi.org/10.21203/rs.3.rs-1499191/v1]
-8. Lary, D.J. et al. (2022). Machine Learning, Big Data, and Spatial Tools: A Combination to Reveal Complex Facts That Impact Environmental Health. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_12
-9. Wijerante, L.O.H. et al. (2022). Advancement in Airborne Particulate Estimation Using Machine Learning. In: Faruque, F.S. (eds) Geospatial Technology for Human Well-Being and Health. Springer, Cham. https://doi.org/10.1007/978-3-030-71377-5_13
+1. Berriel, S.N.; McNealy-James, T.; Currie, T.M.; Bissell, E.; Butkus, B.; Chen, C.-H.; Tomar, L.; Baillie, J.T.; Gamelin, D.R.; Davis, K.O.; Jurca, T.; Banerjee, P. Reactant-Dependent, 10<sup>8</sup>× Conductivity Modulation in Plasma-Enhanced Atomic Layer Deposition for Black TiO<sub>2</sub> Films. _Chemistry of Materials_ <strong>2024</strong>, _36_, 7647–7655. https://doi.org/10.1021/acs.chemmater.4c00667
+2. Baillie, J.T.; Pressler, K.; Adams, N.J.; Horani, F.; Snoeren, T.J.; Beaulac, R.; Gamelin, D.R. Optical Spin Sensing and Metamagnetic Phase Control in the 2D Van der Waals Magnet Yb<sup>3+</sup>-Doped CrPS<sub>4</sub>. _ACS Nano_ <strong>2025</strong>, _19_, 34408–34417. https://doi.org/10.1021/acsnano.5c12767
+3. Forberger, L.; Baillie, J.T.; Feng, Z.; Gariépy, R.E.; Hirani, S.; Gamelin, D.R.; Zhang, S.; Kaminsky, W.; Pauzauskie, P. Hydrothermal Synthesis of Ultra-High Aspect Ratio β-NaYF₄ Disks via Methyliminodiacetic Acid (MIDA). _Submitted_. <strong>2025</strong>
+4. Baillie, J.T.; Tzanetopoulos, E.; Smith, R.T.; Beaulac, R.; Gamelin, D.R. The Impact of Magnons, Defects, and Rapid Energy Migration on the Optical Properties of the 2D Magnet CrPS₄. _Submitted_. <strong>2025</strong>
+5. Tzanetopoulos, E.; Snoeren, T.J.; Baillie, J.T.; Beaulac, R.; Gamelin, D.R. Perspective on the Photoluminescence of the Cr3+-Based Magnetic van der Waals Materials CrSBr and CrPS<sub>4</sub>. _In prep_.
+6. Price, E.; Baillie, J.T.; Fu, K.-M.; Gamelin, D.R. Narrowing Linewidths and Enhancing Emission of Indium Features in Zinc Oxide Nanorods through Annealing. _In prep_.
+7. Nguyen, N.; Baillie, J.T.; Gamelin, D.R. 
 
 - [Data Science Blog](https://medium.com/@shawhin)
