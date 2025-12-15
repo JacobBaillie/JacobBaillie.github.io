@@ -34,10 +34,8 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ## Publications
 1. Berriel, S.N.; McNealy-James, T.; Currie, T.M.; Bissell, E.; Butkus, B.; Chen, C.-H.; Tomar, L.; Baillie, J.T.; Gamelin, D.R.; Davis, K.O.; Jurca, T.; Banerjee, P. Reactant-Dependent, 10<sup>8</sup>× Conductivity Modulation in Plasma-Enhanced Atomic Layer Deposition for Black TiO<sub>2</sub> Films. _Chemistry of Materials_ <strong>2024</strong>, _36_, 7647–7655. https://doi.org/10.1021/acs.chemmater.4c00667
 2. Baillie, J.T.; Pressler, K.; Adams, N.J.; Horani, F.; Snoeren, T.J.; Beaulac, R.; Gamelin, D.R. Optical Spin Sensing and Metamagnetic Phase Control in the 2D Van der Waals Magnet Yb<sup>3+</sup>-Doped CrPS<sub>4</sub>. _ACS Nano_ <strong>2025</strong>, _19_, 34408–34417. https://doi.org/10.1021/acsnano.5c12767
-3. Forberger, L.; Baillie, J.T.; Feng, Z.; Gariépy, R.E.; Hirani, S.; Gamelin, D.R.; Zhang, S.; Kaminsky, W.; Pauzauskie, P. Hydrothermal Synthesis of Ultra-High Aspect Ratio β-NaYF₄ Disks via Methyliminodiacetic Acid (MIDA). _Submitted_. <strong>2025</strong>
-4. Baillie, J.T.; Tzanetopoulos, E.; Smith, R.T.; Beaulac, R.; Gamelin, D.R. The Impact of Magnons, Defects, and Rapid Energy Migration on the Optical Properties of the 2D Magnet CrPS₄. _Submitted_. <strong>2025</strong>
+3. Forberger, L.; Baillie, J.T.; Feng, Z.; Gariépy, R.E.; Hirani, S.; Gamelin, D.R.; Zhang, S.; Kaminsky, W.; Pauzauskie, P. Hydrothermal Synthesis of Ultra-High Aspect Ratio β-NaYF₄ Disks via Methyliminodiacetic Acid (MIDA). _Submitted_. <strong>2025</strong>. Preprint: https://arxiv.org/abs/2511.14933
+4. Baillie, J.T.; Tzanetopoulos, E.; Smith, R.T.; Beaulac, R.; Gamelin, D.R. The Impact of Magnons, Defects, and Rapid Energy Migration on the Optical Properties of the 2D Magnet CrPS<sub>4</sub>. _Submitted_. <strong>2025</strong>. Preprint: https://arxiv.org/abs/2512.09838
 5. Tzanetopoulos, E.; Snoeren, T.J.; Baillie, J.T.; Beaulac, R.; Gamelin, D.R. Perspective on the Photoluminescence of the Cr3+-Based Magnetic van der Waals Materials CrSBr and CrPS<sub>4</sub>. _In prep_.
 6. Price, E.; Baillie, J.T.; Fu, K.-M.; Gamelin, D.R. Narrowing Linewidths and Enhancing Emission of Indium Features in Zinc Oxide Nanorods through Annealing. _In prep_.
-7. Nguyen, N.; Baillie, J.T.; Gamelin, D.R. 
-
-- [Data Science Blog](https://medium.com/@shawhin)
+7. Nguyen, N.; Baillie, J.T.; Gamelin, D.R. Al<sup>3</sup>+loy-Driven Control of Excitons and Magnetism in CrPS<sub>4</sub>. _In prep_.
