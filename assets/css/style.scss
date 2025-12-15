@@ -4,7 +4,8 @@
 @import "{{ site.theme }}";
 
 /* Your overrides go below */
-header img {
+header img[src$="/assets/img/Headshot_circle.png"] {
   width: 180px !important;   /* adjust */
   height: auto !important;
+  max-width: none !important;
 }
