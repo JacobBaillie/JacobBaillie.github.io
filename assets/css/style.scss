@@ -3,8 +3,8 @@
 
 @import "{{ site.theme }}";
 
-.site-logo img {
-  width: 100px;      /* adjust size here */
-  height: auto;
+/* Your overrides go below */
+header img {
+  width: 180px !important;   /* adjust */
+  height: auto !important;
 }
-
