@@ -35,4 +35,4 @@ Developed and owned interoperable **MATLAB** and **Python** scripts to calculate
 5. Tzanetopoulos, E.; Snoeren, T.J.; Baillie, J.T.; Beaulac, R.; Gamelin, D.R. Perspective on the Photoluminescence of the Cr3+-Based Magnetic van der Waals Materials CrSBr and CrPS<sub>4</sub>. _In prep_.
 6. Price, E.; Baillie, J.T.; Fu, K.-M.; Gamelin, D.R. Narrowing Linewidths and Enhancing Emission of Indium Features in Zinc Oxide Nanorods through Annealing. _In prep_.
 7. Nguyen, N.; Baillie, J.T.; Gamelin, D.R. Al<sup>3</sup>+loy-Driven Control of Excitons and Magnetism in CrPS<sub>4</sub>. _In prep_.
-8. Rollins, D.S.; Baillie, J.T.; Gamelin, D.R.; Xiao, D.J. Al<sup>3</sup>+loy-Driven Control of Excitons and Magnetism in CrPS<sub>4</sub>. _In prep_.
+8. Rollins, D.S.; Baillie, J.T.; Gamelin, D.R.; Xiao, D.J. Toward Coupled Optically Controlled Spin Qubits in Lanthanide Molecular Clusters. _In prep_.
