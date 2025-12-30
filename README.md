@@ -1,8 +1,8 @@
 # Data Scientist
 
 #### Technical Skills: 
-- Proficient: Python, SQL, Igor
-- Experience: MATLAB, LabVIEW, HTML
+- Proficient: Python, SQL, Jupyter, VS Code
+- Experience: ML, MATLAB, LabVIEW, HTML, R
 
 ## Education
 - Ph.D., Chemistry | University of Washington (_December 2025_)								       		 			        		
