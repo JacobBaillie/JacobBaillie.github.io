@@ -1,7 +1,7 @@
 # Data Scientist
 
 #### Technical Skills: 
-- Proficient: Python, SQL, Jupyter, VS Code
+- Proficient: Python, SQL, Jupyter, VS Code, Igor Pro
 - Experience: ML, MATLAB, LabVIEW, HTML, R
 
 ## Education
