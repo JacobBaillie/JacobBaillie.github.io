@@ -31,7 +31,7 @@ Developed and owned interoperable **MATLAB** and **Python** scripts to calculate
 
 Used **Python** and **SQL** to extract, transform, and load data from Google Calendar API and cloud storage. Built a causal analytics pipeline (difference-in-differences) to diagnose scheduling inefficiencies and drive a ~50% improvement in equipment utilization based on negative binomial general linearized model.
 
-![files_over_time](/assets/img/Productivity_weekly_30DMA.jpg)
+![files_over_time](/assets/img/Productivity_weekly_30DMA_.jpg)
 
 ## Publications
 1. Berriel, S.N.; McNealy-James, T.; Currie, T.M.; Bissell, E.; Butkus, B.; Chen, C.-H.; Tomar, L.; Baillie, J.T.; Gamelin, D.R.; Davis, K.O.; Jurca, T.; Banerjee, P. Reactant-Dependent, 10<sup>8</sup>× Conductivity Modulation in Plasma-Enhanced Atomic Layer Deposition for Black TiO<sub>2</sub> Films. _Chemistry of Materials_ <strong>2024</strong>, _36_, 7647–7655. https://doi.org/10.1021/acs.chemmater.4c00667
