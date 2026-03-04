@@ -2,7 +2,7 @@
 
 #### Technical Skills: 
 - Proficient: Python, SQL, Jupyter, VS Code, Cursor, Igor Pro
-- Experience: Javascript, ML, MATLAB, LabVIEW, HTML, R
+- Experience: Javascript, ML, MATLAB, LabVIEW, R
 
 ## Education
 - Ph.D., Chemistry | University of Washington (_December 2025_)								       		 			        		
@@ -30,6 +30,8 @@ Developed and owned interoperable **MATLAB** and **Python** scripts to calculate
 ### Instrument utilization optimization by multivariate causal inference and regression
 
 Used **Python** and **SQL** to extract, transform, and load data from Google Calendar API and cloud storage. Built a causal analytics pipeline (difference-in-differences) to diagnose scheduling inefficiencies and drive a ~50% improvement in equipment utilization based on negative binomial general linearized model.
+
+Autonomously developed a web-based app for instrument reservations and management. Built the backend using **Python** **Django** and the frontend using **Javascript** and Bootstrap with HTMX. Provides email services for notifications and management. The framework is designed for ease of use editability.
 
 ![files_over_time](/assets/img/Productivity_weekly_30DMA_.jpg)
 
