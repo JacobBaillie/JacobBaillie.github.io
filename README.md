@@ -1,4 +1,4 @@
-# Data Scientist
+# Data Scientist / Optical Engineer
 
 #### Technical Skills: 
 - Proficient: Python, SQL, Jupyter, VS Code, Cursor, Igor Pro
