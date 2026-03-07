@@ -56,7 +56,7 @@ Worked with a team to create scalable **Python** and scikit-learn workflows to m
 
 Served as technical lead across concurrent projects spanning sample preparation optimization, **machine learning**, large-scale data collection, and analytics automation; communicated findings across six cross-functional teams.
 
-## Leadership and other experience
+## Other Experience
 ### Lab Manager at University of Washington Molecular Engineering and Materials Center
 Managed two thermal evaporators (used for Si chip patterning and materials synthesis) and a new confocal photoluminescence microscope. These apparatuses are used by ~200 researchers whom I served for as the technical liason by architecting standardized operating protocols and centralized technical documentation, reducing onboarding time and hardware downtime.
 
