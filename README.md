@@ -47,7 +47,7 @@ Software and analysis: Optimized signal-to-noise using lock-in detection, extend
 ### Instrument utilization optimization by multivariate causal inference and regression
 Used **Python** and **SQL** to extract, transform, and load data from Google Calendar API and cloud storage. Built a causal analytics pipeline to diagnose scheduling inefficiencies and drive a 54% improvement in equipment utilization based on negative binomial general linearized model.
 
-Autonomously developed a web-based app for instrument reservations and management. Built using **Python** / **Django** and **Javascript**  with Bootstrap with HTMX. Provides email services for notifications and management. The framework is designed for ease of use editability.
+Autonomously developed a web-based app for instrument reservations and management. Built using **Python** / **Django** and **Javascript**  with Bootstrap with HTMX. Provides email services for notifications and management. The framework is designed for ease of use and editability.
 
 ![files_over_time](/assets/img/Productivity_weekly_30DMA_.jpg)
 
