@@ -8,11 +8,11 @@
 - Ph.D., Chemistry | University of Washington (_December 2025_)								       		 			        		
 - B.S., Chemistry | Seattle Pacific University (_June 2019_)
 
-## Projects durring my PhD
+## Research Projects
 ### Optical Spin Sensing and Metamagnetic Phase Control in the 2D Van der Waals Magnet Yb<sup>3+</sup>-Doped CrPS<sub>4</sub>
 [Publication](https://pubs.acs.org/doi/10.1021/acsnano.5c12767)
 
-Sample preparation: Chemical vapor deposition using multizone PID loop tune funrnaces and air-free handling.
+Sample preparation: Chemical vapor deposition using multizone PID loop tune furnaces and air-free handling.
 
 Optics and instrumentation: Integrated ultralow vacuum cryostats, heater loops (PID), superconducting magnets, and multiple optical excitation and detection systems to perform photoluminescence experiments at high magnetic fields with picosecond time resolution. Architected and managed laser systems (Ti:sapphire, Nd:YAG) and optical detection schemes including pump diodes, laser cavity alignment, automated calibrations, photomultiplier tubes, charge-coupled devices, lock-in amplification, noise rejection, and console monitoring.
 
@@ -25,20 +25,20 @@ Long-term impacts: Developed and owned custom **Python** scripts for real-time a
 ### The Impact of Magnons, Defects, and Rapid Energy Migration on the Optical Properties of the 2D Magnet CrPS<sub>4</sub>
 [Publication](https://arxiv.org/abs/2512.09838)
 
-Sample preparation: Chemical vapor deposition using multizone PID loop tune funrnaces and air-free handling.
+Sample preparation: Chemical vapor deposition using multizone PID loop tune furnaces and air-free handling.
 
-Optics and instrumentation: Similar to above, in addition to more complex multifaceted experiments including magnetic circular dichroism (polar optics, photoelastic modulators, lock-in detection), linear polarization experiments, and A/B testing of pulsed excitation/emission detection (single-photon counters, streak cameras, multichannel scalars, and oscilliscopes).
+Optics and instrumentation: Similar to above, in addition to more complex multifaceted experiments including magnetic circular dichroism (polar optics, photoelastic modulators, lock-in detection), linear polarization experiments, and A/B testing of pulsed excitation/emission detection (single-photon counters, streak cameras, multichannel scalars, and oscilloscopes).
 
 Software and analysis: Used **LabVIEW** and other proprietary softwares to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts. Fast Fourier Transform and nonlinear regression was used to disentangle signals and assess data validity. Multivariate analysis was performed to identify origins of spectroscopic features.
 
-Long-term impacts: Developed and owned interoperable **MATLAB** and **Python** scripts to calculate and visualize complex magneto-optical phenomena including magnons. Scripts are applicable to any material, benefiting on-going and future projects. Prepared a comprehensive guide for time-resolved experiemtation and hardware options, saving hours on trial and error durring all future projects.
+Long-term impacts: Developed and owned interoperable **MATLAB** and **Python** scripts to calculate and visualize complex magneto-optical phenomena including magnons. Scripts are applicable to any material, benefiting on-going and future projects. Prepared a comprehensive guide for time-resolved experimentation and hardware options, saving hours on trial and error during all future projects.
 
 ![CrPS4 TOC graphic](/assets/img/TOC_Cr.jpg)
 
 ### Toward Coupled Optically Controlled Spin Qubits in Lanthanide Molecular Clusters
 Ongoing project (details hidden to protect pending publication)
 
-Sample preparation: Hyrothermal reaction in teflon-lined autoclave.
+Sample preparation: Hydrothermal reaction in teflon-lined autoclave.
 
 Optics and instrumentation: Similar to above, including high-power laser excitation with time-resolved detection optics.
 
