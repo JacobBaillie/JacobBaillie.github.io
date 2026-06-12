@@ -16,7 +16,7 @@ Sample preparation: Chemical vapor deposition using multizone PID loop tune furn
 
 Optics and instrumentation: Integrated ultralow vacuum cryostats, heater loops (PID), superconducting magnets, and multiple optical excitation and detection systems to perform photoluminescence experiments at high magnetic fields with picosecond time resolution. Architected and managed laser systems (Ti:sapphire, Nd:YAG) and optical detection schemes including pump diodes, laser cavity alignment, automated calibrations, photomultiplier tubes, charge-coupled devices, lock-in amplification, noise rejection, and console monitoring.
 
-Software and analysis: Used **LabVIEW** and other proprietary softwares to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts. Fast Fourier Transform and nonlinear regression was used to disentangle signals and assess data validity. Multivariate analysis was performed to identify origins of spectroscopic features. 
+Software and analysis: Used **LabVIEW** and other proprietary software to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts. Fast Fourier Transform and nonlinear regression was used to disentangle signals and assess data validity. Multivariate analysis was performed to identify origins of spectroscopic features. 
 
 Long-term impacts: Developed and owned custom **Python** scripts for real-time analysis of large datasets under high-pressure time-constraints, decreasing experiment duration and operation costs by 30%. Newly developed Ti:sapphire laser system serves entire lab as the primary excitation source for most projects. Three new research directions were generated.
 
@@ -27,9 +27,9 @@ Long-term impacts: Developed and owned custom **Python** scripts for real-time a
 
 Sample preparation: Chemical vapor deposition using multizone PID loop tune furnaces and air-free handling.
 
-Optics and instrumentation: Similar to above, in addition to more complex multifaceted experiments including magnetic circular dichroism (polar optics, photoelastic modulators, lock-in detection), linear polarization experiments, and A/B testing of pulsed excitation/emission detection (single-photon counters, streak cameras, multichannel scalars, and oscilloscopes).
+Optics and instrumentation: Similar to above, in addition to more complex multifaceted experiments including magnetic circular dichroism (polar optics, photoelastic modulators, lock-in detection), linear polarization experiments, and pulsed excitation and time-resolved emission detection (single-photon counters, streak cameras, multichannel scalars, and oscilloscopes).
 
-Software and analysis: Used **LabVIEW** and other proprietary softwares to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts. Fast Fourier Transform and nonlinear regression was used to disentangle signals and assess data validity. Multivariate analysis was performed to identify origins of spectroscopic features.
+Software and analysis: Used **LabVIEW** and other proprietary software to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts. Fast Fourier Transform and nonlinear regression was used to disentangle signals and assess data validity. Multivariate analysis was performed to identify origins of spectroscopic features.
 
 Long-term impacts: Developed and owned interoperable **MATLAB** and **Python** scripts to calculate and visualize complex magneto-optical phenomena including magnons. Scripts are applicable to any material, benefiting on-going and future projects. Prepared a comprehensive guide for time-resolved experimentation and hardware options, saving hours on trial and error during all future projects.
 
@@ -44,17 +44,21 @@ Optics and instrumentation: Similar to above, including high-power laser excitat
 
 Software and analysis: Optimized signal-to-noise using lock-in detection, extended collection, and careful data cleaning with **Python** scripts. 
 
+### Exploration of ZnO nanostructures using machine learning
+Served as technical lead across concurrent projects spanning sample preparation optimization, **machine learning**, large-scale data collection, and analytics automation; communicated findings across six cross-functional teams.
+
+Sample preparation: ZnO nanostructure including nanorods, quantum dots, and nanoparticles were prepared by hydrothermal synthesis, solvothermal synthesis, seeded-growth, chemical vapor deposition, sol-gel synthesis, and core-shell growth.
+
+Software and analysis: Used **LabVIEW** and other proprietary software to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts to extract homogeneous linewidths and lifetimes (optical and spin T1) and qualify material performance.
+
+Long-term impacts: Two successful material regimes (solvothermal nanorod and hydrothermal seeded growth) were identified and generated collaborative efforts between physicists, electrical engineers, chemists, and data scientists. These bright emitters show promising initial results and further study is on-going to validate their feasibility as quantum emitters. Additionally, machine learning workflows (**Python** and scikit-learn) were developed for literature data mining and materials synthesis modeling supporting decision-making for an $18M NSF-funded program, leading to a six-year renewal.
+
 ### Instrument utilization optimization by multivariate causal inference and regression
 Used **Python** and **SQL** to extract, transform, and load data from Google Calendar API and cloud storage. Built a causal analytics pipeline to diagnose scheduling inefficiencies and drive a 54% improvement in equipment utilization based on negative binomial general linearized model.
 
 Autonomously developed a web-based app for instrument reservations and management. Built using **Python** / **Django** and **Javascript**  with Bootstrap with HTMX. Provides email services for notifications and management. The framework is designed for ease of use and editability.
 
 ![files_over_time](/assets/img/Productivity_weekly_30DMA_.jpg)
-
-### Exploration of ZnO nanostructures using machine learning
-Worked with a team to create scalable **Python** and scikit-learn workflows to model relationships across ~300 literature reports, supporting decision-making for an $18M NSF-funded program, leading to a six-year renewal.
-
-Served as technical lead across concurrent projects spanning sample preparation optimization, **machine learning**, large-scale data collection, and analytics automation; communicated findings across six cross-functional teams.
 
 ## Other Experience
 ### Lab Manager at University of Washington Molecular Engineering and Materials Center
