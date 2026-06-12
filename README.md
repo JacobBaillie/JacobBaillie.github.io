@@ -35,6 +35,17 @@ Long-term impacts: Developed and owned interoperable **MATLAB** and **Python** s
 
 ![CrPS4 TOC graphic](/assets/img/TOC_Cr.jpg)
 
+### Exploration of ZnO nanostructures using machine learning
+Served as technical lead across concurrent projects spanning sample preparation optimization, **machine learning**, large-scale data collection, and analytics automation; communicated findings across six cross-functional teams.
+
+Sample preparation: Zinc oxide (ZnO) nanostructure including nanorods, quantum dots, and nanoparticles were prepared by hydrothermal synthesis, solvothermal synthesis, seeded-growth, chemical vapor deposition, sol-gel synthesis, and core-shell growth.
+
+Software and analysis: Used **LabVIEW** and other proprietary software to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts to extract homogeneous linewidths and lifetimes (optical and spin T1) and qualify material performance.
+
+Long-term impacts: Two successful material regimes (solvothermal nanorod and hydrothermal seeded growth) were identified and generated collaborative efforts between physicists, electrical engineers, chemists, and data scientists. These bright emitters show promising initial results and further study is on-going to validate their feasibility as quantum emitters. Additionally, machine learning workflows (**Python** and scikit-learn) were developed for literature data mining and materials synthesis modeling supporting decision-making for an $18M NSF-funded program, leading to a six-year renewal.
+
+![ZnO graphic](/assets/img/ZnO.jpg)
+
 ### Toward Coupled Optically Controlled Spin Qubits in Lanthanide Molecular Clusters
 Ongoing project (details hidden to protect pending publication)
 
@@ -44,14 +55,7 @@ Optics and instrumentation: Similar to above, including high-power laser excitat
 
 Software and analysis: Optimized signal-to-noise using lock-in detection, extended collection, and careful data cleaning with **Python** scripts. 
 
-### Exploration of ZnO nanostructures using machine learning
-Served as technical lead across concurrent projects spanning sample preparation optimization, **machine learning**, large-scale data collection, and analytics automation; communicated findings across six cross-functional teams.
-
-Sample preparation: ZnO nanostructure including nanorods, quantum dots, and nanoparticles were prepared by hydrothermal synthesis, solvothermal synthesis, seeded-growth, chemical vapor deposition, sol-gel synthesis, and core-shell growth.
-
-Software and analysis: Used **LabVIEW** and other proprietary software to read out and save data from scientific instruments. Data was analyzed and visualized using custom **Python** and **Igor** scripts to extract homogeneous linewidths and lifetimes (optical and spin T1) and qualify material performance.
-
-Long-term impacts: Two successful material regimes (solvothermal nanorod and hydrothermal seeded growth) were identified and generated collaborative efforts between physicists, electrical engineers, chemists, and data scientists. These bright emitters show promising initial results and further study is on-going to validate their feasibility as quantum emitters. Additionally, machine learning workflows (**Python** and scikit-learn) were developed for literature data mining and materials synthesis modeling supporting decision-making for an $18M NSF-funded program, leading to a six-year renewal.
+![YbYb graphic](/assets/img/YbYb.jpg)
 
 ### Instrument utilization optimization by multivariate causal inference and regression
 Used **Python** and **SQL** to extract, transform, and load data from Google Calendar API and cloud storage. Built a causal analytics pipeline to diagnose scheduling inefficiencies and drive a 54% improvement in equipment utilization based on negative binomial general linearized model.
